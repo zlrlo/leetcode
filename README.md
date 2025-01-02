@@ -1,3 +1,1 @@
-# LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/LeetCode?theme=nord&font=Secular%20One&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kkzimo?theme=unicorn&font=Secular%20One&ext=activity)
